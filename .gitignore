@@ -1,0 +1,102 @@
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# Build Files
+# =========================
+build/
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Compiled Object Files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.a
+
+# =========================
+# C / C++
+# =========================
+*.gch
+*.pch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Arduino
+# =========================
+*.hex
+*.elf
+*.map
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+
+# =========================
+# TensorFlow / AI Models
+# =========================
+*.h5
+*.pb
+*.tflite
+models/
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+*.bak
+
+# =========================
+# Git
+# =========================
+*.orig
